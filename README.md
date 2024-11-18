@@ -29,7 +29,7 @@ You will need the following things properly installed on your computer.
 
 # For v2-addon-test setup
 
-[Short description of the addon.]
+using ember-power-select to check peer dependency issue.
 
 ## Compatibility
 
@@ -39,12 +39,12 @@ You will need the following things properly installed on your computer.
 ## Installation
 
 ```
-ember install v2-addon-test
+npm install
 ```
 
 ## Usage
 
-[Longer description of how to use the addon in apps.]
+using EmbroiderApp to check conflit.
 
 ## Contributing
 
@@ -53,3 +53,4 @@ See the [Contributing](CONTRIBUTING.md) guide for details.
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md).
+
